@@ -1,0 +1,12 @@
+.title {
+    background: linear-gradient(0deg, #1e6196, transparent);
+    padding: 3rem;
+    border-radius: 1rem;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+}
+
+.extensionWarning {
+    color: var(--warning);
+}
